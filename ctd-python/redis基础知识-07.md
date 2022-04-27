@@ -18,12 +18,5 @@
   - 集合set
   - 有序集合zset
 
-# 数据操作行为
-
-- 保存
-- 修改
-- 获取
-- 删除
-
 点击中⽂官⽹查看命令⽂档http://redis.cn/commands.html
 

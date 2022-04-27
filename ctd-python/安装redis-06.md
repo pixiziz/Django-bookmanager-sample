@@ -66,6 +66,8 @@ Could not connect to Redis at 127.0.0.1:6379: Connection refused
 not connected> 
 not connected> 
 
+#启动redis
+andre@ubuntu18:/usr/local/redis$ redis-server
 ```
 
 ### 修改配置文件
